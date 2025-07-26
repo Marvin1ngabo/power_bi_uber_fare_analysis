@@ -38,4 +38,19 @@ Python: Employed for robust data cleaning, preprocessing, and feature engineerin
   ######  matplotlib and seaborn for initial exploratory data analysis (EDA) visualizations.
 
   ######  Power BI Desktop: Utilized for creating an interactive and visually compelling dashboard, enabling dynamic exploration of the data.
+
+### 2.3.Analysis Workflow  
+  The project's analytical workflow was divided into the following key phases:
+
+  #### 1. Data Understanding and Initial Assessment:
+  Initial loading of the dataset.
+  Examination of data types, summary statistics, and early identification of missing values or obvious inconsistencies.
+
+  #### 2. Data Cleaning and Preprocessing (Python):
+  Handling of missing values (e.g., rows with NaNs in critical columns were removed).
+  Data type conversion (e.g., fare_amount to numeric, pickup_datetime to datetime objects).
+  Outlier detection and removal for key numerical fields, including:
+  fare_amount: Filtering out values less than zero or excessively high.
+  passenger_count: Removing records with zero passengers or an unrealistically high number.
+  Geographical Coordinates: Filtering out invalid latitude and longitude values (e.g., outside standard ranges or at (0,0)).
  
