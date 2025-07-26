@@ -53,4 +53,40 @@ Python: Employed for robust data cleaning, preprocessing, and feature engineerin
   fare_amount: Filtering out values less than zero or excessively high.
   passenger_count: Removing records with zero passengers or an unrealistically high number.
   Geographical Coordinates: Filtering out invalid latitude and longitude values (e.g., outside standard ranges or at (0,0)).
+
+### 3.Feature Engineering (Python):
+Creation of new, insightful features derived from pickup_datetime to capture temporal patterns:
+hour_of_day
+
+day_of_week
+
+month
+
+year
+
+Calculation of trip_distance_km using the Haversine formula based on pickup and drop-off coordinates, providing a crucial proxy for ride duration and basis for "fare per km" analysis.
+
+### 4.Data Analysis and Visualization (Power BI):
+Importing the cleaned and feature-engineered dataset into Power BI Desktop.
+
+Developing various interactive visualizations to explore:
+
+Distribution of fare_amount.
+
+Temporal patterns of rides and fares (hourly, daily, monthly, yearly).
+
+Geographic distribution of pickups.
+
+Impact of passenger_count.
+
+Creation of custom measures (e.g., Average Fare Per Km) using DAX to derive key performance indicators.
+
+### 5.Dashboard Creation:
+Designing a professional and interactive dashboard that consolidates all key findings.
+
+Implementing slicers and drill-down capabilities for dynamic data exploration.
+
+Applying consistent formatting and design principles for clarity and user-friendliness.
+
+  
  
