@@ -105,5 +105,20 @@ Calculation of trip_distance_km using the Haversine formula based on pickup and 
 
 ✅Applyed consistent formatting and design principles for clarity and user-friendliness.
 
+### 6.Conclusion and Key Outcomes (Summary)
+This project successfully transformed raw Uber fare data into actionable insights through robust Python-based preprocessing and an interactive Power BI dashboard.
+
+#### The analysis revealed a comprehensive overview of fare dynamics and ride patterns:
+
+**Scale of Operations: The dataset encompassed a substantial 199,000 total rides.**
+
+**Fare Characteristics:**
+
+**Fares exhibited a Mean of $11.36 and a Median of $8.50, indicating a right-skewed distribution often influenced by higher-value outlier trips.**
+
+**The Standard Deviation of $9.89 highlights significant variability in fare amounts.**
+
+**Fares ranged widely from a Minimum of -$52.00 (addressed during cleaning) to a Maximum of $499.00, showcasing the broad spectrum of trip costs.**
+
   
  
