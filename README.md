@@ -37,6 +37,11 @@ Thia screenshots folder consists of many image files that showcase how the work 
 
 Dashboard1.pbix consist of the the insights of the powerbi analysis where there are different graphs like histograms, bar charts, line charts that makes it easy to read and know what happened at different time and scenarios and which is a user friendly.
 
+**for example here is the dashboard**
+
+<img width="1158" height="641" alt="Mainn Dashboard" src="https://github.com/user-attachments/assets/5a782529-3a42-49ed-bbe0-49d5e6d32481" />
+
+
 #### $$\color{red}{\text{README.md File}}$$
 
 
