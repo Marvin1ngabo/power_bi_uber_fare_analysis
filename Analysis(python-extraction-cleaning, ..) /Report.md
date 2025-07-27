@@ -22,7 +22,7 @@ This project presents a comprehensive data analysis of Uber fare data, designed 
  This project followed a structured analytical approach, moving from raw data acquisition and preprocessing to advanced feature engineering and interactive dashboard   creation.
  ### 2.1.Data Collection
  
- The dataset utilized for this analysis is the "New York City Taxi Fare Prediction" dataset (often used for Uber fare analysis due to its similar structure), publicly available on Kaggle. This dataset contains historical trip records, including fare amounts, pickup and drop-off locations, timestamps, and passenger counts.
+ The dataset utilized for this analysis is the "New York City Taxi Fare Prediction" dataset (often used for Uber fare analysis due to its similar structure), publicly available on Kaggle. This dataset contains historical trip records, including fare amounts, pickup and drop-off locations, timestamps, and passenger counts. where total number were 200,000
 
 ### 2.2.Tools and Technologies
  The analysis was conducted using a combination of powerful data science tools:
@@ -58,6 +58,16 @@ Python: Employed for robust data cleaning, preprocessing, and feature engineerin
   ✅passenger_count: Removing records with zero passengers or an unrealistically high number.
   
   ✅Geographical Coordinates: Filtering out invalid latitude and longitude values (e.g., outside standard ranges or at (0,0)).
+
+
+  ✅Fare Amount:
+
+     ###### Mean: $11.36 
+     ###### Median: $8.50
+     ###### Standard Deviation: 9.89
+     ###### Max: $499.00
+     ###### Min: -52.00
+
 
 ### 3.Feature Engineering (Python):
 Creation of new, insightful features derived from pickup_datetime to capture temporal patterns:
