@@ -1,4 +1,5 @@
-# 🚗 <span style="color:blue;">Uber Fare Analysis with Power BI</span>
+# 🚗 $$\color{blue}{\text{Uber Fare Analysis with Power BI}}$$
+
 
 
 
