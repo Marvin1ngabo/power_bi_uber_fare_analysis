@@ -15,7 +15,6 @@
 
 This analysis folder consists of file **uncleaned_&_after_cleaning.py**, which is the python codes shows how the uncleaned data was cleaned and also removed unneccessary data and also perfomed different analysis like finding Mean,Mode and many more that were mentioned.
 
-It also has a file named **Report.md** which is the report file for the whole report for the project where it demonstrates key insights and also as an analysit what i have done and also why i did it.
 
 #### $$\color{red}{\text{CLEANED AND ENHANCED DATA Folder}}$$
 
@@ -42,3 +41,7 @@ Dashboard1.pbix consist of the the insights of the powerbi analysis where there 
 
 
 This readme explains the whole structure of the project and what's in there.
+
+#### $$\color{red}{\text{Report.md File}}$$
+
+This is the intensive file that consists of report of all the analysis made throughout all the project
