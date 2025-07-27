@@ -1,4 +1,4 @@
-## 🚖$$\color{blue}{\text{Uber Fare Analysis with Power BI Structure}}$$
+## 🚖 $$\color{blue}{\text{Uber Fare Analysis with Power BI Structure}}$$
 
 **Analyst:** RUTARO NGABONZIZA Didace   26591
 
