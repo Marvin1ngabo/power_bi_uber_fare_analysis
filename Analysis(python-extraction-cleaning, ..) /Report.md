@@ -1,4 +1,4 @@
-# 🚗Uber Fare Analysis with Power BI
+# 🚗<span style="color:blue;">Uber Fare Analysis with Power BI</span>
 
 
  ### 1.Introduction and Project Objective
