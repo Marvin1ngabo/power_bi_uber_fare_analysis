@@ -17,7 +17,7 @@ This analysis folder consists of file **uncleaned_&_after_cleaning.py**, which i
 
 It also has a file named **Report.md** which is the report file for the whole report for the project where it demonstrates key insights and also as an analysit what i have done and also why i did it.
 
-#### $$\color{red}{\text{CLEANED \AND ENHANCED DATA Folder}}$$
+#### $$\color{red}{\text{CLEANED AND ENHANCED DATA Folder}}$$
 
 
 This one has the Data which are cleaned and also enhanced for more features.
