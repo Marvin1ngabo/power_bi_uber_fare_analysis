@@ -28,6 +28,10 @@ It also has a file named **Report.md** which is the report file for the whole re
 
 Thia screenshots folder consists of many image files that showcase how the work and analysis was done, it has all the images from cleaning data, analysing , making different graphs until to the final Dashboard
 
+### Dashboard1.pbix File
+
+Dashboard1.pbix consist of the the insights of the powerbi analysis where there are different graphs like histograms, bar charts, line charts that makes it easy to read and know what happened at different time and scenarios and which is a user friendly.
+
 ### README.md File
 
 This readme explains the whole structure of the project and what's in there.
