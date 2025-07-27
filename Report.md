@@ -112,6 +112,9 @@ Calculation of trip_distance_km using the Haversine formula based on pickup and 
 
 ✅Applyed consistent formatting and design principles for clarity and user-friendliness.
 
+<img width="1158" height="641" alt="Mainn Dashboard" src="https://github.com/user-attachments/assets/6b48136b-b620-4390-8ef9-89dcdfc7a5a6" />
+
+
 ### $$\color{red}{\text{6.Conclusion and Key Outcomes (Summary)}}$$
 
 This project successfully transformed raw Uber fare data into actionable insights through robust Python-based preprocessing and an interactive Power BI dashboard.
