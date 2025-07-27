@@ -62,11 +62,11 @@ Python: Employed for robust data cleaning, preprocessing, and feature engineerin
 
   ✅Fare Amount:
 
-     ###### Mean: $11.36 
-     ###### Median: $8.50
-     ###### Standard Deviation: 9.89
-     ###### Max: $499.00
-     ###### Min: -52.00
+     Mean: $11.36 
+     Median: $8.50
+     Standard Deviation: 9.89
+     Max: $499.00
+     Min: -52.00
 
 
 ### 3.Feature Engineering (Python):
