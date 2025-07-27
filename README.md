@@ -17,7 +17,7 @@ This analysis folder consists of file **uncleaned_&_after_cleaning.py**, which i
 
 It also has a file named **Report.md** which is the report file for the whole report for the project where it demonstrates key insights and also as an analysit what i have done and also why i did it.
 
-#### $$\color{red}{\text{CLEANED \& ENHANCED DATA Folder}}$$
+#### $$\color{red}{\text{CLEANED \AND ENHANCED DATA Folder}}$$
 
 
 This one has the Data which are cleaned and also enhanced for more features.
@@ -28,7 +28,7 @@ as file name says(**uber_fares_cleaned.csv**)
 
 This folder consists the raw data file (**uber.csv**) that was used in the whole process which was downloaded from kaggle platform which is among of the best for data which is is ready to be used. mainly for us students and other purposes
 
-#### $$\color{red}{\text{SCREENSHOTS\_BIGTADA Folder}}$$
+#### $$\color{red}{\text{SCREENSHOTS\(BIGTADA) Folder}}$$
 
 
 Thia screenshots folder consists of many image files that showcase how the work and analysis was done, it has all the images from cleaning data, analysing , making different graphs until to the final Dashboard
