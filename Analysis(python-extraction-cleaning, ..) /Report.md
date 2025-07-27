@@ -3,7 +3,8 @@
 
 
 
- ### 1.Introduction and Project Objective
+ ### $$\color{red}{\text{1.Introduction and Project Objective}}$$
+
 
 This project presents a comprehensive data analysis of Uber fare data, designed to uncover key trends, patterns, and insights into ride-sharing dynamics. Utilizing Python for data cleaning and feature engineering, and Power BI for interactive visualization, this dashboard aims to transform raw transaction data into actionable business intelligence.
 
@@ -19,7 +20,8 @@ This project presents a comprehensive data analysis of Uber fare data, designed 
 
  ✅Provide actionable insights into peak demand periods, pricing variations, and passenger behaviors to support operational or strategic decision-making.
 
- ### 2.Methodology: Data Collection and Analysis Approach
+ ### $$\color{red}{\text{2.Methodology: Data Collection and Analysis Approach}}$$
+
 
  This project followed a structured analytical approach, moving from raw data acquisition and preprocessing to advanced feature engineering and interactive dashboard   creation.
  ### 2.1.Data Collection
@@ -71,7 +73,8 @@ Python: Employed for robust data cleaning, preprocessing, and feature engineerin
      Min: -52.00
 
 
-### 3.Feature Engineering (Python):
+### $$\color{red}{\text{3.Feature Engineering (Python):}}$$
+
 Creation of new, insightful features derived from pickup_datetime to capture temporal patterns:
 
 ✅hour_of_day
@@ -84,7 +87,8 @@ Creation of new, insightful features derived from pickup_datetime to capture tem
 
 Calculation of trip_distance_km using the Haversine formula based on pickup and drop-off coordinates, providing a crucial proxy for ride duration and basis for "fare per km" analysis.
 
-### 4.Data Analysis and Visualization (Power BI):
+### $$\color{red}{\text{4.Data Analysis and Visualization (Power BI):}}$$
+
 ✅Importing the cleaned and feature-engineered dataset into Power BI Desktop.
 
 ✅Developing various interactive visualizations to explore:
@@ -99,7 +103,8 @@ Calculation of trip_distance_km using the Haversine formula based on pickup and 
 
 ✅Creation of custom measures (e.g., Average Fare Per Km) using DAX to derive key performance indicators.
 
-### 5.Dashboard Creation:
+### $$\color{red}{\text{5.Dashboard Creation:}}$$
+
 
 ✅Designed a professional and interactive dashboard that consolidates all key findings.
 
@@ -107,7 +112,8 @@ Calculation of trip_distance_km using the Haversine formula based on pickup and 
 
 ✅Applyed consistent formatting and design principles for clarity and user-friendliness.
 
-### 6.Conclusion and Key Outcomes (Summary)
+### $$\color{red}{\text{6.Conclusion and Key Outcomes (Summary)}}$$
+
 This project successfully transformed raw Uber fare data into actionable insights through robust Python-based preprocessing and an interactive Power BI dashboard.
 
 #### The analysis revealed a comprehensive overview of fare dynamics and ride patterns:
